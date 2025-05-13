@@ -27,10 +27,10 @@ The Flask backend exposes a `/cluster` POST endpoint that accepts:
 
 It uses scikit-learn's KMeans class to perform clustering with the provided cluster centers as initialization.
 
-###Before calculating clusters
+##Before calculating clusters
 
 <img width="1025" alt="Before Clustering" src="https://github.com/user-attachments/assets/3ef67f8a-6316-47eb-8e39-4f572fb6ee8e" />
 
-###After calculating clusters
+##After calculating clusters
 
 <img width="979" alt="After Clustering" src="https://github.com/user-attachments/assets/0324895d-80c7-4d2c-85b8-76db0919bdc3" />
